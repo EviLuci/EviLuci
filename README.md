@@ -28,6 +28,10 @@ I am a Linux Enthusiast and Lost Developer. Please help me find my way 🤣
 <div align="Center" width="100%"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnhyMTRmdGd6OXhlNHJoeGl5NXM5b3J1cnNieHJla216bXJ3Zmh1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qkbm4jGMam7PfdWzHM/giphy.gif" width="400">
 </div>
 
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
 ### OS
 
 | Linux | Arch | Kali |
