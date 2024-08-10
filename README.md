@@ -56,17 +56,11 @@ I am a Linux Enthusiast and Lost Developer. Please help me find my way 🤣
 ---
 
 ### My GitHub 🔥
-
-[![EviLuci's GitHub Streak](https://streak-stats.demolab.com?user=EviLuci&theme=highcontrast&hide_border=true&border_radius=5&card_width=800&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
----
-
-![EviLuci's GitHub stats](https://github-readme-stats.vercel.app/api?username=EviLuci&show_icons=true&theme=vision-friendly-dark)
-
----
-
-[![EviLuci's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EviLuci&layout=compact&theme=vision-friendly-dark)](https://github.com/EviLuci/github-readme-stats)
-
+<div align="Center">
+<img  width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=EviLuci&theme=vision-friendly-dark&hide_border=false&border_radius=5&card_width=800&date_format=M%20j%5B%2C%20Y%5D"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=EviLuci&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EviLuci&layout=compact&theme=vision-friendly-dark"/>
+</div>
 ---
 
 <p align="center">
