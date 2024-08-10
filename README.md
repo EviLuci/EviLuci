@@ -1,5 +1,3 @@
-# EviLuci
-
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXlyeG9lMzdhNG1tNWkzNXFqbmQzd3pmeG92NnVrZXo4N3ZtZng3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="500"/>
 
@@ -29,7 +27,7 @@ I am a Linux Enthusiast and Developer.
 
 ---
 
-### OS:
+### OS
 
 | Linux | Arch | Kali |
 |----------|----------|----------|
@@ -37,7 +35,8 @@ I am a Linux Enthusiast and Developer.
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Languages and Tools
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;>
@@ -55,7 +54,7 @@ I am a Linux Enthusiast and Developer.
 
 ---
 
-### My GitHub:
+### My GitHub
 
 [![EviLuci's GitHub Streak](https://streak-stats.demolab.com?user=EviLuci&theme=highcontrast&hide_border=true&border_radius=5&card_width=800&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
