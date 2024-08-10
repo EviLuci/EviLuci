@@ -36,6 +36,8 @@
 <div align="Center" width="100%"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnhyMTRmdGd6OXhlNHJoeGl5NXM5b3J1cnNieHJla216bXJ3Zmh1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qkbm4jGMam7PfdWzHM/giphy.gif" width="400">
 </div>
 
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31tznw7qfgboa4dzrrawwxhr5zcu&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31tznw7qfgboa4dzrrawwxhr5zcu&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false)]]
+
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
