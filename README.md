@@ -9,27 +9,29 @@
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=EviLuci&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=EviLuci&style=flat-square&color=blue" alt="profile views"/>
 </div>
 
 ## Hi there 👋
 
-I am a Linux Enthusiast and Developer.
+I am a Linux Enthusiast and Lost Developer. Please help me find my way 🤣
 
-<div align="center"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnhyMTRmdGd6OXhlNHJoeGl5NXM5b3J1cnNieHJla216bXJ3Zmh1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qkbm4jGMam7PfdWzHM/giphy.gif" width="400">
-</div>
+- 🔭 I’m currently on a journey to build **great** things
 
-- 🔭 I’m currently working on wordpress
-- 🌱 I’m currently learning React/Next.js
-- ⚡ Fun fact: I was interested in Cybersecurity but ended up joining web development. Tough Life.😄
+- 🌱 I’m currently learning **everything** 🤓
+
+- 🤝 I’m looking for help with **finding projects to contribute to!**
+
+- ⚡  Fun fact: I was interested in Cybersecurity but ended up joining web development. Tough Life.😄
 
 ---
-
+<div align="Right" width="100%"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnhyMTRmdGd6OXhlNHJoeGl5NXM5b3J1cnNieHJla216bXJ3Zmh1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qkbm4jGMam7PfdWzHM/giphy.gif" width="400">
+</div>
 ### OS
 
 | Linux | Arch | Kali |
 |----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Arch" alt="Arch" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> |
 
 ---
 
@@ -52,11 +54,12 @@ I am a Linux Enthusiast and Developer.
 
 ---
 
-### My GitHub
+### My GitHub 🔥
 
 [![EviLuci's GitHub Streak](https://streak-stats.demolab.com?user=EviLuci&theme=highcontrast&hide_border=true&border_radius=5&card_width=800&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ---
+
 ![EviLuci's GitHub stats](https://github-readme-stats.vercel.app/api?username=EviLuci&show_icons=true&theme=vision-friendly-dark)
 
 ---
