@@ -32,6 +32,8 @@ I am a Linux Enthusiast and Lost Developer. Please help me find my way 🤣
 
 <!--START_SECTION:activity-->
 
+<!--END_SECTION:activity-->
+
 ### OS
 
 | Linux | Arch | Kali |
