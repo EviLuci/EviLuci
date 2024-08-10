@@ -19,7 +19,9 @@
 </a>
 </div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=eviluci&label=Profile%19views&color=0e75b6&style=flat" alt="eviluci" /> </p>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=eviluci&&style=flat" align="center" />
+</div>
 
 <div align="center">
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tznw7qfgboa4dzrrawwxhr5zcu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true">
