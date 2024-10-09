@@ -145,6 +145,7 @@
     </td>
   </tr>
 </table>
+<br clear="left" />
 
 #### 💻 Backend
 
@@ -190,6 +191,7 @@
     </td>
   </tr>
 </table>
+<br clear="left" />
 
 #### 🔧 DevOps
 
@@ -245,6 +247,7 @@
     </td>
   </tr>
 </table>
+<br clear="left" />
 
 ### 📊 My GitHub Stats 🔥
 
