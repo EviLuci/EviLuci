@@ -1,10 +1,18 @@
-<h1 align="center">Hi 👋, I'm EviLuci</h1>
-<h3 align="center">I am a Linux Enthusiast and Lost Developer. Please help me find my way 🤣</h3>
+<h1 align="left">Hi 👋, I'm EviLuci</h1>
+<h3 align="left">I am a Linux Enthusiast and Lost Developer. Please help me find my way 🤣</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eviluci&theme=onedark" alt="eviluci" /></a> </p>
+<div align="left">
+<img src="https://komarev.com/ghpvc/?username=eviluci&&style=flat" align="center" />
+</div>
 
-<h2 align="center">🔗 Connect with me </h2>
-<div align="center">
+---
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eviluci&theme=onedark" alt="eviluci" /></a> </p>
+
+---
+
+<h2 align="left">🔗 Connect with me </h2>
+<div align="left">
 <a href="https://linkedin.com/in/sujan-koju-6a7246193" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -19,16 +27,12 @@
 </a>
 </div>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=eviluci&&style=flat" align="center" />
-</div>
-
-<h2 align="center">🎧 What I'm Listening To:</h2>
-<div align="center">
+<h2 align="left">🎧 What I'm Listening To:</h2>
+<div align="left">
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tznw7qfgboa4dzrrawwxhr5zcu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true">
 </div>
 
-<h2 align="center">🛠️ Currently Working On:</h2>
+<h2 align="left">🛠️ Currently Working On:</h2>
 
 - 🔭 I’m currently working on [Ezeekard](https://ezeekard.com/)
 
@@ -50,7 +54,7 @@
 
 ## ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-<div align="Center" width="100%"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnhyMTRmdGd6OXhlNHJoeGl5NXM5b3J1cnNieHJla216bXJ3Zmh1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qkbm4jGMam7PfdWzHM/giphy.gif" width="400">
+<div align="left" width="100%"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnhyMTRmdGd6OXhlNHJoeGl5NXM5b3J1cnNieHJla216bXJ3Zmh1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qkbm4jGMam7PfdWzHM/giphy.gif" width="400">
 </div>
 
 ### 📊 Recent Activity
