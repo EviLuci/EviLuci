@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm EviLuci</h1>
+# Hi 👋, I'm EviLuci
 <h3 align="left">I am a Linux Enthusiast and Lost Developer. Please help me find my way 🤣</h3>
 
 <div align="left">
@@ -6,12 +6,13 @@
 </div>
 
 
-<h2 align="left">🏆 Github Trophy</h2>
+## 🏆 Github Trophy
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eviluci&theme=onedark" alt="eviluci" /></a> </p>
 
 
 
-<h2 align="left">🔗 Connect with me </h2>
+## 🔗 Connect with me
 <div align="left">
 <a href="https://linkedin.com/in/sujan-koju-6a7246193" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -27,12 +28,12 @@
 </a>
 </div>
 
-<h2 align="left">🎧 What I'm Listening To:</h2>
+## 🎧 What I'm Listening To:
 <div align="left">
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tznw7qfgboa4dzrrawwxhr5zcu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true">
 </div>
 
-<h2 align="left">🛠️ Currently Working On:</h2>
+## 🛠️ Currently Working On:
 
 - 🔭 I’m currently working on [Ezeekard](https://ezeekard.com/)
 
