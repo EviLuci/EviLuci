@@ -113,13 +113,17 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
           <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="./assets/android.gif" alt="android" width="40" height="40"/> </a>
       <br>Android
-    </td>
+    </td -->>
     <td align="center" width="96">
-          <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" width="40" /></a>
+          <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" height="40" width="40" /></a>
       <br>Javascript
+    </td>
+      <td align="center" width="96">
+          <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" height="40" width="40" /></a>
+      <br>Typescript
     </td>
     <td align="center"  width="96">
           <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="./assets/flutter.gif" alt="flutter" width="40" height="40"/> </a>
@@ -265,6 +269,11 @@
 <p align="center">
  <img width="1000" src="assets/github-user-contribution.svg" alt="GitHub Contribution Snake Animation"/>
 </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/EviLuci/EviLuci/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/EviLuci/EviLuci/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://github.com/EviLuci/EviLuci/blob/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 ## 🏆 Github Trophy
 
