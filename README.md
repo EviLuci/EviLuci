@@ -259,8 +259,6 @@
 
 </div>
 
-## <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=EviLuci&theme=vision-friendly-dark" alt="EviLuci's Streak Stats"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=EviLuci&show_icons=true&theme=vision-friendly-dark&count_private=true" alt="EviLuci's GitHub Stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EviLuci&layout=compact&theme=vision-friendly-dark" alt="EviLuci's Top Languages"/> </p>
-
 ### 🐍 GitHub Contribution Snake:
 
 <p align="center">
