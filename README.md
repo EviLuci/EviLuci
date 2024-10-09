@@ -1,16 +1,16 @@
 # Hi 👋, I'm EviLuci
-<h3 align="left">I am a Linux Enthusiast and Lost Developer. Please help me find my way 🤣</h3>
-
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=eviluci&&style=flat" align="center" />
 </div>
-
-
-## 🏆 Github Trophy
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eviluci&theme=onedark" alt="eviluci" /></a> </p>
-
-
+<h3 align="left">I am a Linux Enthusiast and Lost Developer. Please help me find my way 🤣</h3>
+<p align="left"><strong><samp>「</samp></strong></p>
+  <p align="center">
+    <samp>
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=97a4e2&center=true&width=410&height=45&lines=I+am+still+thinking+'probably🤔'.">
+    </samp>
+  </p>
+<p align="right"><strong><samp>」</samp></strong></p>
+<br>
 
 ## 🔗 Connect with me
 <div align="left">
@@ -249,7 +249,7 @@
 </table>
 <br clear="left" />
 
-### 📊 My GitHub Stats 🔥
+## 📊 My GitHub Stats 🔥
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=EviLuci&theme=vision-friendly-dark&hide_border=false&border_radius=5&card_width=800&date_format=M%20j%5B%2C%20Y%5D"/>
@@ -258,11 +258,17 @@
 
 </div>
 
-### 🐍 GitHub Contribution Snake:
+## 🐍 GitHub Contribution Snake
 
 <p align="center">
  <img width="1000" src="assets/github-user-contribution.svg" alt="GitHub Contribution Snake Animation"/>
 </p>
+
+## 🏆 Github Trophy
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eviluci&theme=onedark" alt="eviluci" /></a> </p>
+
+
 
 <!--
 **EviLuci/EviLuci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
