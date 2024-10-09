@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eviluci&theme=onedark" alt="eviluci" /></a> </p>
 
-<h3 align="center">🔗 Connect with me </h3>
+<h2 align="center">🔗 Connect with me </h2>
 <div align="center">
 <a href="https://linkedin.com/in/sujan-koju-6a7246193" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -49,13 +49,13 @@
 <div align="Center" width="100%"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnhyMTRmdGd6OXhlNHJoeGl5NXM5b3J1cnNieHJla216bXJ3Zmh1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qkbm4jGMam7PfdWzHM/giphy.gif" width="400">
 </div>
 
-### :zap: Recent Activity
+### 📊 Recent Activity
 
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
 
-### OS
+### 🖥️ OS
 
 | Linux                                                                                                                                        | Arch                                                                                                                                               | Kali                                                                                                                                                                       |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -65,7 +65,7 @@
 
 ### 🛠️ Languages and Tools
 
-#### Frontend
+#### 🖥️ Frontend
 
 <table align="left">
   <tr>
@@ -88,16 +88,30 @@
   </tr>
   <tr>
     <td align="center" width="96">
+          <a href="https://wordpress.com/" target="_blank" rel="noreferrer"> <img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="48" width="48" /></a>
+      <br>Wordpress
+    </td>
+    <td align="center" width="96">
+        <a href="https://woocommerce.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="48" width="48" /></a>
+      <br>Woocommerce
+    </td>
+        <td align="center" width="96">
+        <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="48" width="48" /></a>
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+        <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="48" width="48" /></a>
+      <br>HTML5
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
           <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="./assets/android.gif" alt="android" width="40" height="40"/> </a>
       <br>Android
     </td>
     <td align="center" width="96">
           <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" width="40" /></a>
       <br>Javascript
-    </td>
-    <td align="center" width="96">
-          <a href="https://wordpress.com/" target="_blank" rel="noreferrer"> <img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" width="40" /></a>
-      <br>Wordpress
     </td>
     <td align="center"  width="96">
           <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="./assets/flutter.gif" alt="flutter" width="40" height="40"/> </a>
@@ -123,22 +137,11 @@
         <img src="https://skillicons.dev/icons?i=next" width="48" height="48" alt="next" />
       <br>Next.js
     </td>
-    <td align="center" width="96">
-        <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="48" width="48" /></a>
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-        <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="48" width="48" /></a>
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-        <a href="https://woocommerce.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="48" width="48" /></a>
-      <br>Woocommerce
-    </td>
   </tr>
 </table>
+<br>
 
-#### Backend
+#### 💻 Backend
 
 <table align="left">
   <tr>
@@ -182,8 +185,9 @@
     </td>
   </tr>
 </table>
+<br>
 
-#### DevOps
+#### 🔧 DevOps
 
 <table align="left">
   <tr>
@@ -237,6 +241,7 @@
     </td>
   </tr>
 </table>
+<br>
 
 ### 📊 My GitHub Stats 🔥
 
