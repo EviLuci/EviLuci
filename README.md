@@ -8,7 +8,7 @@
     <samp>
         I am a Linux Enthusiast and Lost Developer. Please help me find my way 🤣
         <br>
-        <image src="https://readme-typing-svg.herokuapp.com?size=16&color=97a4e2&center=true&width=410&height=45&lines=I+am+still+thinking+'probably🤔'.">
+        <image src="https://readme-typing-svg.herokuapp.com?size=14&color=97a4e2&center=true&width=410&height=45&lines=I+am+still+thinking+'probably🤔'.">
     </samp>
   </p>
 <p align="right"><strong><samp>」</samp></strong></p>
