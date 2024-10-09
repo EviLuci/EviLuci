@@ -5,11 +5,11 @@
 <img src="https://komarev.com/ghpvc/?username=eviluci&&style=flat" align="center" />
 </div>
 
----
 
+<h2 align="left">🏆 Github Trophy</h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eviluci&theme=onedark" alt="eviluci" /></a> </p>
 
----
+
 
 <h2 align="left">🔗 Connect with me </h2>
 <div align="left">
@@ -50,7 +50,7 @@
 
 ---
 
-### Dev Quote
+## 📖 Dev Quote
 
 ## ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
@@ -145,7 +145,6 @@
     </td>
   </tr>
 </table>
-<br>
 
 #### 💻 Backend
 
@@ -191,7 +190,6 @@
     </td>
   </tr>
 </table>
-<br>
 
 #### 🔧 DevOps
 
@@ -247,7 +245,6 @@
     </td>
   </tr>
 </table>
-<br>
 
 ### 📊 My GitHub Stats 🔥
 
