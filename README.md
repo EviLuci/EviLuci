@@ -116,7 +116,7 @@
 <!--     <td align="center" width="96">
           <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="./assets/android.gif" alt="android" width="40" height="40"/> </a>
       <br>Android
-    </td -->>
+    </td> -->
     <td align="center" width="96">
           <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" height="40" width="40" /></a>
       <br>Javascript
