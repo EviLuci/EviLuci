@@ -93,8 +93,6 @@
         <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="ai" />
       <br>AI
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
           <a href="https://wordpress.com/" target="_blank" rel="noreferrer"> <img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="48" width="48" /></a>
       <br>Wordpress
@@ -149,30 +147,9 @@
 </table>
 <br>
 
----
-
-
 #### 💻 Backend
 
 <table align="left">
-  <tr>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-         <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-      <br>Dart
-    </td>
-    <td align="center" width="96">
-        <a href="https://www.rust-lang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="48" width="48" /></a>
-      <br>Rust
-    </td>
-  </tr>
   <tr>
     <td align="center" width="96">
         <a href="https://mariadb.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="48" width="48" /></a>
@@ -195,10 +172,26 @@
       <br>Firebase
     </td>
   </tr>
+  <tr>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+         <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
+      <br>Dart
+    </td>
+    <td align="center" width="96">
+        <a href="https://www.rust-lang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="48" width="48" /></a>
+      <br>Rust
+    </td>
+  </tr>
 </table>
 <br>
-
----
 
 #### 🔧 DevOps
 
