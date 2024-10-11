@@ -266,9 +266,6 @@
 
 ## 🐍 GitHub Contribution Snake
 
-<p align="center">
- <img width="1000" src="assets/github-user-contribution.svg" alt="GitHub Contribution Snake Animation"/>
-</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/EviLuci/EviLuci/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/EviLuci/EviLuci/blob/output/github-contribution-grid-snake.svg" />
