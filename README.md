@@ -1,4 +1,5 @@
-# Hi 👋, I'm EviLuci
+# Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/>  , I'm EviLuci <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" />
+
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=eviluci&&style=flat" align="center" />
 </div>
@@ -6,7 +7,7 @@
 <p align="left"><strong><samp>「</samp></strong></p>
   <p align="center">
     <samp>
-        I am a Linux Enthusiast and Lost Developer. Please help me find my way 🤣
+        I am a Linux Enthusiast and Lost Developer. Please help me find my way <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20Holding%20Back%20Tears.png" alt="Face Holding Back Tears" width="25" height="25" />
         <br>
         <image src="https://readme-typing-svg.herokuapp.com?size=14&color=97a4e2&center=true&width=410&height=45&lines=I+am+still+thinking+'probably🤔'.">
     </samp>
@@ -14,7 +15,7 @@
 <p align="right"><strong><samp>」</samp></strong></p>
 <br>
 
-## 🔗 Connect with me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Mechanical%20Arm.webp" alt="Mechanical Arm" width="25" height="25" /> Connect with me
 <div align="center">
 <a href="https://linkedin.com/in/sujan-koju-6a7246193" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -27,28 +28,28 @@
 </a>
 </div>
 
-## 🎧 What I'm Listening To:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Musical%20Note.webp" alt="Musical Note" width="25" height="25" /> What I'm Listening To
 <div align="center">
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tznw7qfgboa4dzrrawwxhr5zcu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true">
 </div>
 
-## 🛠️ Currently Working On:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Moai.webp" alt="Moai" width="25" height="25" /> Currently Working On <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Microscope.webp" alt="Microscope" width="25" height="25" />
 
-- 🔭 I’m currently working on [Ezeekard](https://ezeekard.com/)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Telescope.webp" alt="Telescope" width="25" height="25" /> I’m currently working on [Ezeekard](https://ezeekard.com/)
 
-- 🌱 I’m currently learning **everything 🤓**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Four%20Leaf%20Clover.webp" alt="Four Leaf Clover" width="25" height="25" /> I’m currently learning **everything <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="15" height="15" />**
 
-- 👯 I’m looking to collaborate on **open source projects**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/People%20Hugging.webp" alt="People Hugging" width="25" height="25" /> I’m looking to collaborate on **open source projects**
 
-- 🤝 Open to contributing to **new and interesting projects**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Open to contributing to **new and interesting projects**
 
-- 💬 Ask me about **everything but expect nothing 🤣**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="25" height="25" /> Ask me about **everything but expect nothing <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Sweat.png" alt="Grinning Face with Sweat" width="15" height="15" />**
 
-<!-- - 📫 How to reach me **sujan.koju111@gmail.com** -->
+<!-- - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="25" height="25" /> How to reach me **sujan.koju111@gmail.com** -->
 
-- ⚡ Fun fact **I was interested in Cybersecurity but ended up joining web development. Tough Life.😄**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Performing%20Arts.webp" alt="Performing Arts" width="25" height="25" /> Fun fact **I was interested in Cybersecurity but ended up joining web development. Tough Life. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Confused%20Face.png" alt="Confused Face" width="15" height="15" />**
 
-## 📖 Dev Quote
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Cool%20Button.webp" alt="Cool Button" width="25" height="25" /> Dev Quote
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
@@ -57,7 +58,7 @@
 
 ---
 
-### 📊 Recent Activity
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="25" height="25" /> Recent Activity
 
 <!--START_SECTION:activity-->
 
@@ -70,9 +71,9 @@
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Arch" alt="Arch" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> |
 
 
-### 🛠️ Languages and Tools
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Magic%20Wand.webp" alt="Magic Wand" width="25" height="25" /> Languages and Tools <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="25" height="25" />
 
-#### 🖥️ Frontend
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Artist%20Palette.webp" alt="Artist Palette" width="25" height="25" /> Frontend
 
 <table align="left">
   <tr>
@@ -150,7 +151,7 @@
 </table>
 <br clear="left" />
 
-#### 💻 Backend
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Video%20Game.webp" alt="Video Game" width="25" height="25" /> Backend
 
 <table align="left">
   <tr>
@@ -196,7 +197,7 @@
 </table>
 <br clear="left" />
 
-#### 🔧 DevOps
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Cloud%20With%20Lightning.webp" alt="Cloud With Lightning" width="25" height="25" /> DevOps
 
 <table align="left">
   <tr>
@@ -252,7 +253,7 @@
 </table>
 <br clear="left" />
 
-## 📊 My GitHub Stats 🔥
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="25" height="25" /> My GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" />
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=EviLuci&theme=vision-friendly-dark&hide_border=false&border_radius=5&card_width=800&date_format=M%20j%5B%2C%20Y%5D"/>
@@ -261,7 +262,7 @@
 
 </div>
 
-## 🐍 GitHub Contribution Snake
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Snake.webp" alt="Snake" width="25" height="25" /> GitHub Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/EviLuci/EviLuci/blob/output/github-contribution-grid-snake-dark.svg" />
@@ -269,23 +270,7 @@
   <img alt="github contribution grid snake animation" src="https://github.com/EviLuci/EviLuci/blob/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-## 🏆 Github Trophy
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Trophy.webp" alt="Trophy" width="25" height="25" /> Github Trophy
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eviluci&theme=onedark" alt="eviluci" /></a> </p>
 
-
-
-<!--
-**EviLuci/EviLuci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
