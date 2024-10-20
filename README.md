@@ -241,6 +241,8 @@
         <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="vercel" />
       <br>Vercel
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="bash" />
       <br>Bash
