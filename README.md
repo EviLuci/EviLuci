@@ -101,7 +101,7 @@
         <a href="https://woocommerce.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="48" width="48" /></a>
       <br>Woocommerce
     </td>
-        <td align="center" width="96">
+    <td align="center" width="96">
         <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="48" width="48" /></a>
       <br>CSS3
     </td>
@@ -126,15 +126,15 @@
     <td align="center"  width="96">
           <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="./assets/flutter.gif" alt="flutter" width="40" height="40"/> </a>
       <br>Flutter
-<!--     </td>
-        <td align="center" width="96">
+    </td>
+    <!-- <td align="center" width="96">
           <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="./assets/react.gif" alt="reactnative" width="40" height="40"/> </a>
       <br>ReactNative
-    </td -->>
+    </td> -->
 <!--     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
       <br>Tailwind
-    </td -->>
+    </td> -->
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mui" width="48" height="48" alt="mui" />
       <br>MUI
@@ -142,7 +142,7 @@
 <!--     <td align="center"  width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="react" />
       <br>React
-    </td -->>
+    </td> -->
 <!--     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=next" width="48" height="48" alt="next" />
       <br>Next.js
@@ -212,21 +212,21 @@
 <!--     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="gitlab" />
       <br>GitLab
-    </td -->>
+    </td> -->
   </tr>
   <tr>
-<!--     <td align="center"  width="96">
+    <td align="center"  width="96">
           <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" width="40" height="40"/> </a>
       <br>AWS
     </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="gcp" />
       <br>GCP
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="azure" />
       <br>Azure
-    </td -->>
+    </td> -->
     <td align="center" width="96">
           <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="./assets/docker.svg" alt="docker" width="40" height="40"/> </a>
       <br>Docker
