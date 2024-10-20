@@ -209,13 +209,13 @@
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="github" />
       <br>GitHub
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="gitlab" />
       <br>GitLab
-    </td>
+    </td -->>
   </tr>
   <tr>
-    <td align="center"  width="96">
+<!--     <td align="center"  width="96">
           <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" width="40" height="40"/> </a>
       <br>AWS
     </td>
@@ -226,7 +226,7 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="azure" />
       <br>Azure
-    </td>
+    </td -->>
     <td align="center" width="96">
           <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="./assets/docker.svg" alt="docker" width="40" height="40"/> </a>
       <br>Docker
