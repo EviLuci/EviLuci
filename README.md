@@ -90,10 +90,10 @@
           <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="./assets/figma.gif" alt="figma" width="40" height="40"/> </a>
       <br>Figma
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="ai" />
       <br>AI
-    </td>
+    </td -->>
     <td align="center" width="96">
           <a href="https://wordpress.com/" target="_blank" rel="noreferrer"> <img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="48" width="48" /></a>
       <br>Wordpress
@@ -120,10 +120,10 @@
           <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" height="40" width="40" /></a>
       <br>Javascript
     </td>
-      <td align="center" width="96">
+      <!-- <td align="center" width="96">
           <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" height="40" width="40" /></a>
       <br>Typescript
-    </td>
+    </td> -->
     <td align="center"  width="96">
           <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="./assets/flutter.gif" alt="flutter" width="40" height="40"/> </a>
       <br>Flutter
@@ -164,24 +164,24 @@
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="mysql" />
       <br>MySQL
     </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="postgres" />
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="mongodb" />
       <br>MongoDB
-    </td>
+    </td> -->
     <td align="center" width="96">
         <a href="https://firebase.google.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="48" width="48" /></a>
       <br>Firebase
     </td>
   </tr>
   <tr>
-    <td align="center"  width="96">
+    <!-- <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
       <br>Node.js
-    </td>
+    </td> -->
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
       <br>Python
@@ -190,10 +190,10 @@
          <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
       <br>Dart
     </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
         <a href="https://www.rust-lang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="48" width="48" /></a>
       <br>Rust
-    </td>
+    </td> -->
   </tr>
 </table>
 <br clear="left" />
@@ -216,10 +216,10 @@
     </td> -->
   </tr>
   <tr>
-    <td align="center"  width="96">
+    <!-- <td align="center"  width="96">
           <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" width="40" height="40"/> </a>
       <br>AWS
-    </td>
+    </td> -->
     <!-- <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="gcp" />
       <br>GCP
@@ -234,14 +234,14 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="48" height="48" alt="nginx" />
       <br>Nginx
-    </td>
-    <td align="center" width="96">
+    </td> -->
+    <!-- <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="vercel" />
       <br>Vercel
-    </td>
+    </td> -->
   </tr>
   <tr>
     <td align="center" width="96">
