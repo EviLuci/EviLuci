@@ -32,7 +32,7 @@
 <br>
 
 <div align="center">
-<a href="https://discord.com/users/1039343834968105020"><img src="https://lanyard.cnrad.dev/api/1039343834968105020?idleMessage=I'm%20cooked.&theme=dark&showDisplayName=true"/></a>
+<a href="https://discord.com/users/1039343834968105020"><img src="https://lanyard.cnrad.dev/api/1039343834968105020?bg=121212&idleMessage=I%20am%20cooked.&theme=dark&showDisplayName=true" /></a>
 </div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Musical%20Note.webp" alt="Musical Note" width="25" height="25" /> What I'm Listening To
