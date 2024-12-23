@@ -29,6 +29,8 @@
 </a>
 </div>
 
+<br>
+
 <div align="center">
 <a href="https://discord.com/users/1039343834968105020"><img src="https://lanyard.cnrad.dev/api/1039343834968105020?idleMessage=I'm%20cooked.&theme=dark&showDisplayName=true"/></a>
 </div>
