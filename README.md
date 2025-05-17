@@ -1,5 +1,4 @@
-# Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> , I'm EviLuci <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" />
-
+# Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/>
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=eviluci&&style=flat" align="center" />
 </div>
@@ -99,7 +98,7 @@
 <!--     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="ai" />
       <br>AI
-    </td -->>
+  </td> -->
     <td align="center" width="96">
           <a href="https://wordpress.com/" target="_blank" rel="noreferrer"> <img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="48" width="48" /></a>
       <br>Wordpress
