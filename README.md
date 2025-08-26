@@ -98,9 +98,10 @@
 
 </div>
 <br>
----
 
 ## Connect with me
+
+## [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 I'm always open to discussing web development, open-source collaboration, or sharing Linux tips.
 
@@ -125,7 +126,3 @@ I'm always open to discussing web development, open-source collaboration, or sha
 <div align="left">
 <a href="https://discord.com/users/1039343834968105020"><img src="https://lanyard.cnrad.dev/api/1039343834968105020?bg=121212&idleMessage=I%20am%20cooked.&theme=dark&showDisplayName=true" /></a>
 </div>
-
-## Dev Quote
-
-## [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
