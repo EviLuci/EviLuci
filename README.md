@@ -99,6 +99,26 @@
 </div>
 <br>
 
+<div align="center">
+
+  <!-- Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=EviLuci&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EviLuci&layout=compact&theme=radical" height="180px" />
+
+<br><br>
+
+  <!-- Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EviLuci&theme=radical&hide_border=false&border_radius=5&card_width=800" />
+
+  <!-- Snake -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/EviLuci/EviLuci/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/EviLuci/EviLuci/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake" src="https://github.com/EviLuci/EviLuci/blob/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+
+</div>
+
 ## Connect with me
 
 ## [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
