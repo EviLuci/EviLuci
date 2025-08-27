@@ -127,8 +127,6 @@
 
 ## [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-I'm always open to discussing web development, open-source collaboration, or sharing Linux tips.
-
 <div align="center" style="margin: 20px 0;">
   <a href="https://linkedin.com/in/sujan-koju-6a7246193" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
