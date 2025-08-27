@@ -47,7 +47,7 @@
   </div>
 
   <!-- Backend -->
-  <div style="background: #0D1117; border-radius: 12px; padding: 16px; width: 300px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <!-- <div style="background: #0D1117; border-radius: 12px; padding: 16px; width: 300px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <h4 style="margin-top: 0; color: #9ECBFF;">⚙️ Backend</h4>
     <div style="display: flex; flex-wrap: wrap; gap: 6px; justify-content: center;">
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -56,7 +56,7 @@
       <img src="https://img.shields.io/badge/laravel-%23FF2D20?style=flat&logo=laravel&logoColor=white" />
       <img src="https://img.shields.io/badge/rust-%23000000?style=flat&logo=rust&logoColor=white" />
     </div>
-  </div>
+  </div> -->
 
   <!-- Databases -->
   <div style="background: #0D1117; border-radius: 12px; padding: 16px; width: 300px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
