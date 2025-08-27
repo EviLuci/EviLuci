@@ -127,7 +127,7 @@
 
 <div align="center" style="margin: 20px 0;">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" style="border-radius: 10px; max-width: 800px; width: 100%;" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" style="border-radius: 10px;" />
   </a>
 </div>
 
