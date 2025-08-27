@@ -125,7 +125,11 @@
 
 ## Connect with me
 
-## [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<div align="center" style="margin: 20px 0;">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" style="border-radius: 10px; max-width: 800px; width: 100%;" />
+  </a>
+</div>
 
 <div align="center" style="margin: 20px 0;">
   <a href="https://linkedin.com/in/sujan-koju-6a7246193" target="_blank">
