@@ -3,8 +3,6 @@
 </div>
 <br>
 
-### **Linux Enthusiast | Open Source Explorer**
-
 <p align="left"><strong><samp>「</samp></strong></p>
 
 <!-- Typing Animation Quote -->
@@ -21,87 +19,98 @@
 
 ## Tech Stack
 
-### Frontend
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin: 16px 0;">
+  <!-- Frontend -->
+  <div style="background: #0D1117; border-radius: 12px; padding: 16px; width: 300px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <h4 style="margin-top: 0; color: #58A6FF;">🌐 Frontend</h4>
+    <div style="display: flex; flex-wrap: wrap; gap: 6px; justify-content: center;">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/typescript-%23007ACC?style=flat&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+    </div>
+  </div>
 
-<div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</div>
+  <!-- Design -->
+  <div style="background: #0D1117; border-radius: 12px; padding: 16px; width: 300px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <h4 style="margin-top: 0; color: #D299FF;">🎨 Design</h4>
+    <div style="display: flex; flex-wrap: wrap; gap: 6px; justify-content: center;">
+      <img src="https://img.shields.io/badge/WordPress-%23117AC9?style=flat&logo=WordPress&logoColor=white" />
+      <img src="https://img.shields.io/badge/gutenberg-%23077CB2?style=flat&logo=gutenberg&logoColor=white" />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Canva-%2300C4CC?style=flat&logo=Canva&logoColor=white" />
+      <img src="https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue" />
+      <img src="https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF" />
+    </div>
+  </div>
 
-### Design
+  <!-- Backend -->
+  <div style="background: #0D1117; border-radius: 12px; padding: 16px; width: 300px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <h4 style="margin-top: 0; color: #9ECBFF;">⚙️ Backend</h4>
+    <div style="display: flex; flex-wrap: wrap; gap: 6px; justify-content: center;">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+      <img src="https://img.shields.io/badge/php-%23777BB4?style=flat&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/laravel-%23FF2D20?style=flat&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/rust-%23000000?style=flat&logo=rust&logoColor=white" />
+    </div>
+  </div>
 
-<div>
-  <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" />
-  <img src="https://img.shields.io/badge/gutenberg-%23077CB2.svg?style=for-the-badge&logo=gutenberg&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF" />
-</div>
+  <!-- Databases -->
+  <div style="background: #0D1117; border-radius: 12px; padding: 16px; width: 300px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <h4 style="margin-top: 0; color: #FFA07A;">🗄️ Databases</h4>
+    <div style="display: flex; flex-wrap: wrap; gap: 6px; justify-content: center;">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" />
+    </div>
+  </div>
 
-### Backend
+  <!-- OS -->
+  <div style="background: #0D1117; border-radius: 12px; padding: 16px; width: 300px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <h4 style="margin-top: 0; color: #F7DF1E;">🐧 OS</h4>
+    <div style="display: flex; flex-wrap: wrap; gap: 6px; justify-content: center;">
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=fff" />
+      <img src="https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white" />
+      <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
+    </div>
+  </div>
 
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
-</div>
+  <!-- DevOps & Tools -->
+  <div style="background: #0D1117; border-radius: 12px; padding: 16px; width: 300px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <h4 style="margin-top: 0; color: #58A6FF;">🚀 DevOps & Tools</h4>
+    <div style="display: flex; flex-wrap: wrap; gap: 6px; justify-content: center;">
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" />
+      <img src="https://img.shields.io/badge/Apache-%23D42029?style=flat&logo=apache&logoColor=white" />
+      <img src="https://img.shields.io/badge/nginx-%23009639?style=flat&logo=nginx&logoColor=white" />
+    </div>
+  </div>
 
-### Databases
+  <!-- IDEs/Editors -->
+  <div style="background: #0D1117; border-radius: 12px; padding: 16px; width: 300px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <h4 style="margin-top: 0; color: #FF7ACC;">💻 IDEs & Editors</h4>
+    <div style="display: flex; flex-wrap: wrap; gap: 6px; justify-content: center;">
+      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat&logo=visual-studio-code&logoColor=white" />
+      <img src="https://img.shields.io/badge/NeoVim-%2357A143?style=flat&logo=neovim&logoColor=white" />
+      <img src="https://img.shields.io/badge/Zed-%23084CCF?style=flat&logo=zedindustries&logoColor=white" />
+      <img src="https://img.shields.io/badge/Obsidian-%23483699?style=flat&logo=obsidian&logoColor=white" />
+      <img src="https://img.shields.io/badge/Helix-%2328153e?style=flat&logo=helix&logoColor=white" />
+    </div>
+  </div>
 
-<div>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-</div>
-
-### Operating System
-
-<div>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-</div>
-
-### Servers
-
-<div>
-  <img src="https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
-</div>
-
-### DevOps & Tools
-
-<div>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
-</div>
-
-### IDEs/Editors
-
-<div>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zed-%23000000.svg?style=for-the-badge&logo=zedindustries&logoColor=white" />
-  <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white" />
-  <img src="https://img.shields.io/badge/Helix-%2328153e.svg?style=for-the-badge&logo=helix&logoColor=white" />
-</div>
-
-### Others
-
-<div>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
+  <!-- Others -->
+  <div style="background: #0D1117; border-radius: 12px; padding: 16px; width: 300px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <h4 style="margin-top: 0; color: #FF6C37;">🔌 Others</h4>
+    <div style="display: flex; flex-wrap: wrap; gap: 6px; justify-content: center;">
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/jira-%230A0FFF?style=flat&logo=jira&logoColor=white" />
+    </div>
+  </div>
 </div>
 
 ## GitHub Analytics
