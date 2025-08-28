@@ -144,11 +144,11 @@
   <a href="https://linkedin.com/in/sujan-koju-6a7246193" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/EviLuci.SK" target="_blank">
+  <!-- <a href="https://www.facebook.com/EviLuci.SK" target="_blank">
     <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://instagram.com/eviluci.sk" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white" /> -->
   </a>
   <a href="https://www.reddit.com/user/SujanKoju/" target="_blank">
     <img src="https://img.shields.io/badge/reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white" />
