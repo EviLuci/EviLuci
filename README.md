@@ -116,8 +116,6 @@
 ## GitHub Analytics
 
 <div align="center" style="display: flex; flex-direction: column; gap: 16px; margin: 20px 0;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EviLuci&theme=tokyonight&hide_border=false&border_radius=5&card_width=800&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
-
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
     <img src="https://github-readme-stats.vercel.app/api?username=EviLuci&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EviLuci&layout=compact&theme=tokyonight" height="180" />
